@@ -4,17 +4,17 @@ title:  'Introduction'
 permalink: pt/overview/introduction.html
 ---
 
-# Introduction
+# Introdução
 
-The UD Portuguese treebank is based on the Bosque part of the Floresta Sintá(c)tica project.
-The data were used in the CoNLL-X Shared Task in dependency parsing (2006); the CoNLL version
-was taken and converted to the Prague dependency style as a part of HamleDT (since 2011).
-Later versions of HamleDT added a conversion to the Stanford dependencies (2014) and to
-Universal Dependencies (HamleDT 3.0, 2015). The conversion path from the original Bosque still
-goes through the CoNLL-X format and the Prague dependencies, which may occasionally lead to
-loss of information. The first release of Universal Dependencies that includes this treebank
-is UD v1.2 in November 2015. It is essentially the HamleDT conversion but the data is not
-identical to HamleDT 3.0 because the conversion procedure has been further improved.
+O treebank Português das UD (dependências universais UD em ingles) baseia-se na parte Bosque do projeto  Floresta Sintá(c)tica.
+Os dados foram os utilizados na tarefa compartilhada de análise de dependências CoNLL-X (2006); a versão CoNLL
+foi intorduzida e convertido para o estilo de dependências de Praga, como  parte do projeto HamleDT (a partir de 2011).
+Versões posteriores do HamleDT adicionaram uma conversão para as dependências de Stanford (2014) e finalmente conversão para
+Dependências Universais (HamleDT 3.0, 2015). O caminho de conversão do Bosque original passa ainda
+pelo formato CoNLL-X e pelas dependências de Praga, que podem, ocasionalmente, ter levado a
+perda de informação. A primeira versão de  dependências universais que inclui este treebank
+é a versão UD v1.2 de novembro de 2015. É, essencialmente, a conversão do projeto HamleDT mas os dados não são
+idênticos aos do HamleDT 3.0 porque o processo de conversão foi melhorado.
 
 ## Links
 
@@ -23,7 +23,7 @@ identical to HamleDT 3.0 because the conversion procedure has been further impro
 * [Treex](http://ufal.mff.cuni.cz/treex) is the software used for conversion
 * [Interset](http://ufal.mff.cuni.cz/interset) was used to convert POS tags and features
 
-## References
+## Referências
 
 * Susana Afonso, Eckhard Bick, Renato Haber, Diana Santos. 2002.
   [“Floresta sintá(c)tica”: a treebank for Portuguese](http://www.lrec-conf.org/proceedings/lrec2002/sumarios/1.htm).
